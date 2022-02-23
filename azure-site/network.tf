@@ -41,3 +41,25 @@ resource "azurerm_subnet" "internal" {
   resource_group_name  = azurerm_resource_group.main.name
   address_prefixes     = [cidrsubnet(azurerm_virtual_network.main.address_space[0],8,2)]
 }
+
+# Create the external IPS subnet within the Vnet
+resource "azurerm_subnet" "inspect_external" {
+  name                 = "inspect_external"
+  virtual_network_name = azurerm_virtual_network.main.name
+  resource_group_name  = azurerm_resource_group.main.name
+  address_prefixes     = [cidrsubnet(azurerm_virtual_network.main.address_space[0],8,3)]
+}
+# Create the internal IPS subnet within the Vnet
+resource "azurerm_subnet" "inspect_internal" {
+  name                 = "inspect_internal"
+  virtual_network_name = azurerm_virtual_network.main.name
+  resource_group_name  = azurerm_resource_group.main.name
+  address_prefixes     = [cidrsubnet(azurerm_virtual_network.main.address_space[0],8,4)]
+}
+# Create the Demo Application Subnet within the Virtual Network
+resource "azurerm_subnet" "application" {
+  name                 = "application"
+  virtual_network_name = azurerm_virtual_network.main.name
+  resource_group_name  = azurerm_resource_group.main.name
+  address_prefixes     = [cidrsubnet(azurerm_virtual_network.main.address_space[0],8,10)]
+}
