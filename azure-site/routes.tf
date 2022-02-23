@@ -26,7 +26,7 @@ resource "azurerm_route" "ext_within_subnet" {
   name                = "within-subnet"
   resource_group_name = azurerm_resource_group.main.name
   route_table_name    = azurerm_route_table.inspect_external.name
-  address_prefix      = azurerm_subnet.inspect_external.address_prefixes[0]
+  address_prefix      = azurerm_subnet.this["inspect_external"].address_prefixes[0] # azurerm_subnet.inspect_external.address_prefixes[0]
   next_hop_type       = "VnetLocal"
 }
 
@@ -39,6 +39,6 @@ resource "azurerm_route" "ext_default" {
 }
 
 resource "azurerm_subnet_route_table_association" "inspect_ext_associate" {
-  subnet_id      = azurerm_subnet.inspect_external.id
+  subnet_id      = azurerm_subnet.this["inspect_external"].id # azurerm_subnet.inspect_external.id
   route_table_id = azurerm_route_table.inspect_external.id
 }

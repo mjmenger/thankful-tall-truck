@@ -150,7 +150,7 @@ resource "volterra_azure_vnet_site" "azure_site" {
         subnet {
           subnet_resource_grp = azurerm_resource_group.main.name
           vnet_resource_group = true
-          subnet_name         = azurerm_subnet.external.name
+          subnet_name         = azurerm_subnet.this["external"].name # azurerm_subnet.external.name
         }
       }
 
@@ -158,7 +158,7 @@ resource "volterra_azure_vnet_site" "azure_site" {
         subnet {
           subnet_resource_grp = azurerm_resource_group.main.name
           vnet_resource_group = true
-          subnet_name         = azurerm_subnet.internal.name
+          subnet_name         = azurerm_subnet.this["internal"].name # azurerm_subnet.internal.name
         }
       }
 
