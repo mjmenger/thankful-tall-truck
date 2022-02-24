@@ -38,6 +38,7 @@ export VOLT_API_URL
 | <a name="input_azure_subscription_id"></a> [azure\_subscription\_id](#input\_azure\_subscription\_id) | n/a | `any` | n/a | yes |
 | <a name="input_azure_tenant_id"></a> [azure\_tenant\_id](#input\_azure\_tenant\_id) | n/a | `any` | n/a | yes |
 | <a name="input_deploy_azure_site"></a> [deploy\_azure\_site](#input\_deploy\_azure\_site) | n/a | `bool` | `false` | no |
+| <a name="input_deploy_azure_site_apps"></a> [deploy\_azure\_site\_apps](#input\_deploy\_azure\_site\_apps) | n/a | `bool` | `false` | no |
 | <a name="input_location"></a> [location](#input\_location) | n/a | `string` | n/a | yes |
 | <a name="input_name"></a> [name](#input\_name) | n/a | `string` | n/a | yes |
 | <a name="input_public_key_path"></a> [public\_key\_path](#input\_public\_key\_path) | n/a | `string` | n/a | yes |
