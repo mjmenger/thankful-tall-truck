@@ -37,6 +37,17 @@ locals {
 
 
 variable location{
-    type = string
+  type = string
 }
-
+variable deploy_applications {
+  type    = bool
+  default = false
+}
+variable application_namespace {
+  type = string
+  default = ""
+}
+variable delegated_domain {
+  type = string
+  description = "if applications are being deployed what domain do we use"
+}

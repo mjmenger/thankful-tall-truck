@@ -17,8 +17,12 @@ provider "azurerm" {
   features{}
 }
 variable deploy_azure_site {
-    type    = bool
-    default = false
+  type    = bool
+  default = false
+}
+variable deploy_azure_site_apps {
+  type    = bool
+  default = false
 }
 variable public_key_path {
   type = string
@@ -35,5 +39,8 @@ module azure_site {
     tags                  = local.tags
     location              = var.location
     public_key            = file(var.public_key_path)
+    deploy_applications   = var.deploy_azure_site_apps
+    application_namespace = "m-menger"
+    delegated_domain      = "volterra.securecloud.engineering"
 }
 
