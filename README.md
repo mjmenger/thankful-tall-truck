@@ -1,8 +1,17 @@
 # thankful-tall-truck
 
+```bash
+export TF_VAR_azure_client_secret=
+export TF_VAR_azure_client_id=
+export TF_VAR_azure_subscription_id=
+export TF_VAR_azure_tenant_id=
 export VOLT_API_P12_FILE 
 export VES_P12_PASSWORD 
 export VOLT_API_URL 
+
+printenv | grep TF_VAR
+printenv | grep VOLT
+```
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
