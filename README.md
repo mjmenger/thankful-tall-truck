@@ -33,10 +33,12 @@ export VOLT_API_URL
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
+| <a name="input_application_namespace"></a> [application\_namespace](#input\_application\_namespace) | n/a | `string` | `""` | no |
 | <a name="input_azure_client_id"></a> [azure\_client\_id](#input\_azure\_client\_id) | n/a | `any` | n/a | yes |
 | <a name="input_azure_client_secret"></a> [azure\_client\_secret](#input\_azure\_client\_secret) | n/a | `any` | n/a | yes |
 | <a name="input_azure_subscription_id"></a> [azure\_subscription\_id](#input\_azure\_subscription\_id) | n/a | `any` | n/a | yes |
 | <a name="input_azure_tenant_id"></a> [azure\_tenant\_id](#input\_azure\_tenant\_id) | n/a | `any` | n/a | yes |
+| <a name="input_delegated_domain"></a> [delegated\_domain](#input\_delegated\_domain) | n/a | `string` | `""` | no |
 | <a name="input_deploy_azure_site"></a> [deploy\_azure\_site](#input\_deploy\_azure\_site) | n/a | `bool` | `false` | no |
 | <a name="input_deploy_azure_site_apps"></a> [deploy\_azure\_site\_apps](#input\_deploy\_azure\_site\_apps) | n/a | `bool` | `false` | no |
 | <a name="input_location"></a> [location](#input\_location) | n/a | `string` | n/a | yes |
