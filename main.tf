@@ -40,7 +40,7 @@ module azure_site {
     location              = var.location
     public_key            = file(var.public_key_path)
     deploy_applications   = var.deploy_azure_site_apps
-    application_namespace = "m-menger"
-    delegated_domain      = "volterra.securecloud.engineering"
+    application_namespace = var.application_namespace
+    delegated_domain      = var.delegated_domain
 }
 

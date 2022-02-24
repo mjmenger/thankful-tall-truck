@@ -5,6 +5,14 @@ locals {
 variable name {
     type = string
 }
+variable application_namespace{
+    type    = string
+    default = ""
+}
+variable "delegated_domain" {
+    type    = string
+    default = ""
+}
 variable tags {
     type = map(string)
 }
