@@ -30,10 +30,20 @@ locals {
     "application" = {
       cidr = [cidrsubnet(azurerm_virtual_network.main.address_space[0],8,10)]
     },
-}
+  }
+
+  trusted_cidrs = concat(var.trusted_cidrs,[azurerm_virtual_network.main.address_space[0]])
 
 }
 
+variable trusted_cidrs {
+  type = list(string)
+  default = []
+}
+
+output trusted_cidrs {
+  value = local.trusted_cidrs
+}
 
 
 variable location{

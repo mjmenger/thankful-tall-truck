@@ -226,7 +226,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "22"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
 
@@ -264,7 +264,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "3000"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -276,7 +276,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "9090"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -288,7 +288,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "5601"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -300,7 +300,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "9200"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -312,7 +312,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "9300"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -324,7 +324,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "9600"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   security_rule {
@@ -336,7 +336,7 @@ resource "azurerm_network_security_group" "app" {
     protocol                   = "Tcp"
     source_port_range          = "*"
     destination_port_range     = "5044"
-    source_address_prefix      = "*"
+    source_address_prefixes    = local.trusted_cidrs
     destination_address_prefix = "*"
   }
   tags = merge(local.tags,{})

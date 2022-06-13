@@ -42,5 +42,6 @@ module azure_site {
     deploy_applications   = var.deploy_azure_site_apps
     application_namespace = var.application_namespace
     delegated_domain      = var.delegated_domain
+    trusted_cidrs         = local.trusted_cidr
 }
 

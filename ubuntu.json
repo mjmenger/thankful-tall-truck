@@ -1,0 +1,884 @@
+[
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.20200318",
+    "version": "18.04.20200318"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.20200605",
+    "version": "18.04.20200605"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.20200729",
+    "version": "18.04.20200729"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.20200908",
+    "version": "18.04.20200908"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.20201014",
+    "version": "18.04.20201014"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202101120",
+    "version": "18.04.202101120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202101191",
+    "version": "18.04.202101191"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202103100",
+    "version": "18.04.202103100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202103160",
+    "version": "18.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202103230",
+    "version": "18.04.202103230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202103250",
+    "version": "18.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202104150",
+    "version": "18.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202105010",
+    "version": "18.04.202105010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202105080",
+    "version": "18.04.202105080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202106090",
+    "version": "18.04.202106090"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202106220",
+    "version": "18.04.202106220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202107160",
+    "version": "18.04.202107160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202107200",
+    "version": "18.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202108020",
+    "version": "18.04.202108020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202108170",
+    "version": "18.04.202108170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202108250",
+    "version": "18.04.202108250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202109180",
+    "version": "18.04.202109180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202109280",
+    "version": "18.04.202109280"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202110120",
+    "version": "18.04.202110120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202110210",
+    "version": "18.04.202110210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202111030",
+    "version": "18.04.202111030"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202111080",
+    "version": "18.04.202111080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202111220",
+    "version": "18.04.202111220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202112060",
+    "version": "18.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202112080",
+    "version": "18.04.202112080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202201110",
+    "version": "18.04.202201110"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202201170",
+    "version": "18.04.202201170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts:18.04.202201180",
+    "version": "18.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202103100",
+    "version": "18.04.202103100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202103160",
+    "version": "18.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202103230",
+    "version": "18.04.202103230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202103250",
+    "version": "18.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202104150",
+    "version": "18.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202105010",
+    "version": "18.04.202105010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202105080",
+    "version": "18.04.202105080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202106090",
+    "version": "18.04.202106090"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202106220",
+    "version": "18.04.202106220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202107160",
+    "version": "18.04.202107160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202107200",
+    "version": "18.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202108020",
+    "version": "18.04.202108020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202108170",
+    "version": "18.04.202108170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202108250",
+    "version": "18.04.202108250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202109180",
+    "version": "18.04.202109180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202109280",
+    "version": "18.04.202109280"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202110120",
+    "version": "18.04.202110120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202110210",
+    "version": "18.04.202110210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202111030",
+    "version": "18.04.202111030"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202111080",
+    "version": "18.04.202111080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202111220",
+    "version": "18.04.202111220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202112060",
+    "version": "18.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202112080",
+    "version": "18.04.202112080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202201110",
+    "version": "18.04.202201110"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202201170",
+    "version": "18.04.202201170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-bionic",
+    "publisher": "Canonical",
+    "sku": "pro-18_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-bionic:pro-18_04-lts-gen2:18.04.202201180",
+    "version": "18.04.202201180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201908220",
+    "version": "18.04.201908220"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201909020",
+    "version": "18.04.201909020"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201909120",
+    "version": "18.04.201909120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201909180",
+    "version": "18.04.201909180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201910030",
+    "version": "18.04.201910030"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201910070",
+    "version": "18.04.201910070"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201910080",
+    "version": "18.04.201910080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201910210",
+    "version": "18.04.201910210"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201911130",
+    "version": "18.04.201911130"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201912050",
+    "version": "18.04.201912050"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.201912180",
+    "version": "18.04.201912180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202001210",
+    "version": "18.04.202001210"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202001291",
+    "version": "18.04.202001291"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002040",
+    "version": "18.04.202002040"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002080",
+    "version": "18.04.202002080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002180",
+    "version": "18.04.202002180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202003170",
+    "version": "18.04.202003170"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202003250",
+    "version": "18.04.202003250"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202004080",
+    "version": "18.04.202004080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202004290",
+    "version": "18.04.202004290"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202005220",
+    "version": "18.04.202005220"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202006101",
+    "version": "18.04.202006101"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007081",
+    "version": "18.04.202007081"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007160",
+    "version": "18.04.202007160"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007290",
+    "version": "18.04.202007290"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202008120",
+    "version": "18.04.202008120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202008180",
+    "version": "18.04.202008180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009010",
+    "version": "18.04.202009010"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009080",
+    "version": "18.04.202009080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009220",
+    "version": "18.04.202009220"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202010140",
+    "version": "18.04.202010140"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202011120",
+    "version": "18.04.202011120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202011230",
+    "version": "18.04.202011230"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202012010",
+    "version": "18.04.202012010"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202012111",
+    "version": "18.04.202012111"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101060",
+    "version": "18.04.202101060"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101081",
+    "version": "18.04.202101081"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101120",
+    "version": "18.04.202101120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101191",
+    "version": "18.04.202101191"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101290",
+    "version": "18.04.202101290"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202102240",
+    "version": "18.04.202102240"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202103151",
+    "version": "18.04.202103151"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202103250",
+    "version": "18.04.202103250"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202104150",
+    "version": "18.04.202104150"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105010",
+    "version": "18.04.202105010"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105080",
+    "version": "18.04.202105080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105120",
+    "version": "18.04.202105120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202106040",
+    "version": "18.04.202106040"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202106220",
+    "version": "18.04.202106220"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202107200",
+    "version": "18.04.202107200"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202108170",
+    "version": "18.04.202108170"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202108250",
+    "version": "18.04.202108250"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202109180",
+    "version": "18.04.202109180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202109280",
+    "version": "18.04.202109280"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202110120",
+    "version": "18.04.202110120"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202110250",
+    "version": "18.04.202110250"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111080",
+    "version": "18.04.202111080"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111220",
+    "version": "18.04.202111220"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111230",
+    "version": "18.04.202111230"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111250",
+    "version": "18.04.202111250"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111290",
+    "version": "18.04.202111290"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111300",
+    "version": "18.04.202111300"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202112020",
+    "version": "18.04.202112020"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202201060",
+    "version": "18.04.202201060"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202201180",
+    "version": "18.04.202201180"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202202020",
+    "version": "18.04.202202020"
+  },
+  {
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202202130",
+    "version": "18.04.202202130"
+  }
+]
