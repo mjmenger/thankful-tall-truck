@@ -59,9 +59,12 @@ No modules.
 | <a name="input_name"></a> [name](#input\_name) | a common name prefix | `string` | n/a | yes |
 | <a name="input_public_key"></a> [public\_key](#input\_public\_key) | n/a | `any` | n/a | yes |
 | <a name="input_tags"></a> [tags](#input\_tags) | n/a | `map(string)` | `{}` | no |
+| <a name="input_trusted_cidrs"></a> [trusted\_cidrs](#input\_trusted\_cidrs) | n/a | `list(string)` | `[]` | no |
 | <a name="input_volterra_token"></a> [volterra\_token](#input\_volterra\_token) | n/a | `string` | n/a | yes |
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_trusted_cidrs"></a> [trusted\_cidrs](#output\_trusted\_cidrs) | n/a |
 <!-- END_TF_DOCS -->
